@@ -1,0 +1,18 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "FullCycle -- Node.js + Nginx + Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Rodrigo Cesar Abreu Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
